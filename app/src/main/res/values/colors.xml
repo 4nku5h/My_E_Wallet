@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray_light">#ececec</color>
+    <color name="gray">#3e3e3e</color>
+    <color name="green">#32c909</color>
+    <color name="gray_dark">#fd2d3b</color>
+    <color name="skyblue">#fe2aa2ff</color>
+    <color name="white">#feffffff</color>
+    <color name="decrement_red">#feff0000</color>
+    <color name="fb_blue">#4b7eec</color>
+
+    <color name="background_minus">#ff0000</color>
+    <color name="background_plus">#24c20f</color>
+    <color name="selected">#bedfdfdf</color>
+    <color name="ocean">#11b7ac</color>
+    <color name="transparent">#00ffffff</color>
+
+
+
+    <color name="sunday">#DC4437</color>
+    <color name="sunday_accent">#D23E30</color>
+    <color name="sunday_button">#D50100</color>
+
+
+    <color name="monday">#32AC71</color>
+    <color name="monday_accent">#109D58</color>
+    <color name="monday_button">#01C853</color>
+
+    <color name="tuesday">#00BCD5</color>
+    <color name="tuesday_accent">#00ACC2</color>
+    <color name="tuesday_button">#00E5FF</color>
+
+    <color name="wednesday">#AA47BC</color>
+    <color name="wednesday_accent">#9C28B1</color>
+    <color name="wednesday_button">#AA00FF</color>
+
+    <color name="thursday">#4286F5</color>
+    <color name="thursday_accent">#3A78E7</color>
+    <color name="thursday_button">#2879FC</color>
+
+    <color name="friday">#FFCC80</color>
+    <color name="friday_accent">#FFB64D</color>
+    <color name="friday_button">#FF9000</color>
+
+    <color name="saturday">#F48FB1</color>
+    <color name="saturday_accent">#F06292</color>
+    <color name="saturday_button">#F10257</color>
+
+
+
+
+
+
+</resources>
